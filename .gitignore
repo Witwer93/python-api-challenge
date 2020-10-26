@@ -1,5 +1,5 @@
 # secrets
-.*/api_keys
+.*/api_keys.py
 .*/.ipynb_checkpoints
 .*/_pycache_
 
