@@ -1,7 +1,6 @@
 # secrets
-.*/api_keys.py
-.*/.ipynb_checkpoints
-.*/_pycache_
+api_keys.*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
